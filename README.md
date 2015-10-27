@@ -1,10 +1,10 @@
 ## Acknowledgement
 
-This Angular2 quick start is based on the lovely guide, Angular2 5 minutes quick start, by Google's Angular core team.
+This Angular2 quick start is based on the lovely guide, Angular2 5 minutes quick start, by Google's Angular core team and many contributors.
 
 ## Development environment
 
-Mac OSX 10.11 Yosemite is used to build this Angular2 quick start.
+Mac OSX 10.11 El Capitan is used to build this Angular2 quick start.
 
 ## Preparation
 
